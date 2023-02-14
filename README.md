@@ -14,5 +14,3 @@ Using GridSearchCV and Pipelines for ML hyperparameter tuning.
 
 **Presentation slides**
 * [Google Slides](https://docs.google.com/presentation/d/1sk1zOEicr-apXsn_42C2Jg7-yDZ0at5wzO5S2KaoMp4/edit?usp=sharing)
-
-> <a href="https://docs.google.com/presentation/d/1sk1zOEicr-apXsn_42C2Jg7-yDZ0at5wzO5S2KaoMp4/edit?usp=sharing" target="blank"><img align="center" src="https://www.crowntv-us.com/wp-content/uploads/2017/05/google-slides-logo.png" alt="murilogustineli" height="20" width="100" /></a>

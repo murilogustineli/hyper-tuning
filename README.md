@@ -1,5 +1,5 @@
 # Hyperparameter Tuning
-Using GridSearchCV and Pipelines for ML hyperparameter tuning.
+Using scikit-learn `GridSearchCV` and `Pipelines` for ML hyperparameter tuning.
 
 **Run the GridSearch Demo in a colab notebook**
 

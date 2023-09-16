@@ -43,7 +43,7 @@ conda activate myenv
 ```
 
 ##### Using virtualenv:
-You can skip this step if you already have conda installed and did the previous step.
+You can skip this step if you completed the previous step using Conda.
 ###### Windows:
 ```
 pip install virtualenv

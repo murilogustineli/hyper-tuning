@@ -60,13 +60,7 @@ source myenv/bin/activate
 
 #### 2. Installing the required packages
 
-We have a `requirements.txt` file that lists all the necessary packages for this project.
-
-Install the packages using:
-
-```
-pip install -r requirements.txt
-```
+There is a `requirements.txt` file that lists all the necessary packages for this project.
 
 If you're using Conda, while most of the packages are available directly through pip, some might have better support or performance when installed through Conda channels:
 
@@ -74,8 +68,11 @@ If you're using Conda, while most of the packages are available directly through
 conda install --file requirements.txt
 ```
 
-Creating the `requirements.txt` file:
+Otherwise, install the packages using pip:
 
+```
+pip install -r requirements.txt
+```
 
 ### That's it!
 

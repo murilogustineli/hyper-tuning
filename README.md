@@ -27,21 +27,6 @@ To ensure our project runs seamlessly, we'll set up a dedicated Python environme
 ### Setup Instructions
 #### 1. Setting up a virtual environment
 
-##### Using virtualenv:
-###### Windows:
-```
-pip install virtualenv
-virtualenv myenv
-.\myenv\Scripts\activate
-```
-
-###### Mac & Linux:
-```
-pip3 install virtualenv
-virtualenv myenv
-source myenv/bin/activate
-```
-
 ##### Using Conda:
 First, [install Anaconda or Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) based on your operating system.
 
@@ -55,6 +40,21 @@ Activate the environment:
 
 ```
 conda activate myenv
+```
+
+##### Using virtualenv:
+###### Windows:
+```
+pip install virtualenv
+virtualenv myenv
+.\myenv\Scripts\activate
+```
+
+###### Mac & Linux:
+```
+pip3 install virtualenv
+virtualenv myenv
+source myenv/bin/activate
 ```
 
 #### 2. Installing the required packages
